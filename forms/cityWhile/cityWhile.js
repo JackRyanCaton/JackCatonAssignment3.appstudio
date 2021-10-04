@@ -1,6 +1,5 @@
 let cities = []
 let lastCity = false
-
 while (lastCity == false) {
   userAnswer = prompt("Enter another city or say No")
   if (userAnswer == "No")
