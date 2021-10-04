@@ -25,7 +25,6 @@
             "cityWhile",
             "cityWhile.json"
           ]
-<<<<<<< HEAD
         },
         {
           "!type": "External",
@@ -39,11 +38,25 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "functionCompare",
+            "functionCompare.json"
           ]
-=======
->>>>>>> 4b56826592d044c8a117bc085788cc3c63ea890b
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "dogStore",
+            "dogStore.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ECnestedLoops",
+            "ECnestedLoops.json"
+          ]
         }
       ],
       "configxml": null,
@@ -65,6 +78,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
+      "firstform": "dogStore",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
