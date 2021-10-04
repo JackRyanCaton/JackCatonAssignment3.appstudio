@@ -25,6 +25,7 @@
             "cityWhile",
             "cityWhile.json"
           ]
+<<<<<<< HEAD
         },
         {
           "!type": "External",
@@ -41,6 +42,8 @@
             "Form1",
             "Form1.json"
           ]
+=======
+>>>>>>> 4b56826592d044c8a117bc085788cc3c63ea890b
         }
       ],
       "configxml": null,
@@ -62,7 +65,6 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "forReverseStates",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
