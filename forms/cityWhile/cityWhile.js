@@ -1,4 +1,4 @@
-/*let cities = []
+let cities = []
 let lastCity = false
 
 while (lastCity == false) {
@@ -13,4 +13,4 @@ let i = 0
 
 while (i < cities.length) {
   console.log(cities[i].toLowerCase())
-  i++; }*/
+  i++; }
