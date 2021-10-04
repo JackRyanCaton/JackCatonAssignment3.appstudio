@@ -25,6 +25,25 @@
             "cityWhile",
             "cityWhile.json"
           ]
+<<<<<<< HEAD
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "forReverseStates",
+            "forReverseStates.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Form1",
+            "Form1.json"
+          ]
+=======
+>>>>>>> 4b56826592d044c8a117bc085788cc3c63ea890b
         }
       ],
       "configxml": null,
