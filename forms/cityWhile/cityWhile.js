@@ -1,4 +1,4 @@
-/*let cities = []
+let cities = []
 let lastCity = false
 while (lastCity == false) {
   userAnswer = prompt("Enter another city or say No")
@@ -12,4 +12,4 @@ let i = 0
 
 while (i < cities.length) {
   console.log(cities[i].toLowerCase())
-  i++; }*/
+  i++; }
